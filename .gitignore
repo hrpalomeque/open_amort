@@ -22,3 +22,4 @@ htmlcov/
 # Notebook and local editor artifacts
 notebooks/__marimo__/
 .DS_Store
+*:Zone.Identifier
