@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Test and tool caches
+.coverage
+.hypothesis/
+.pytest_cache/
+.ruff_cache/
+.uv-cache/
+htmlcov/
+
+# Notebook and local editor artifacts
+notebooks/__marimo__/
+.DS_Store
